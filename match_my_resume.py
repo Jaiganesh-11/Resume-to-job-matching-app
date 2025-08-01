@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-PyMuPDF
 import fitz 
 import smtplib
 import time
