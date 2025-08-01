@@ -1,4 +1,3 @@
-%%writefile match_my_resume.py
 import streamlit as st
 import pandas as pd
 import fitz  # PyMuPDF
