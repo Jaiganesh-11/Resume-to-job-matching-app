@@ -33,8 +33,8 @@ def set_background(image_file):
     )
 
 # Set the background
-if os.path.exists("background.jpg"):
-    set_background("background.jpg")
+if os.path.exists("Background.jpg"):
+    set_background("Background.jpg")
 
 # ----- Custom CSS -----
 st.markdown("""
@@ -219,3 +219,4 @@ if uploaded_files:
                 rejected_sent += 1
 
         st.success(f"Emails sent: ✅ {selected_sent} selected, ❌ {rejected_sent} rejected.")
+
