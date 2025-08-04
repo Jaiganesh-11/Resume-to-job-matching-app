@@ -4,3 +4,4 @@ PyMuPDF
 matplotlib
 openpyxl
 Pillow
+base64
