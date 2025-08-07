@@ -7,3 +7,5 @@ joblib
 matplotlib
 seaborn
 PyPDF2
+PyMuPDF
+
