@@ -1,7 +1,9 @@
 streamlit
 pandas
-PyMuPDF
+numpy
+scikit-learn
+nltk
+joblib
 matplotlib
-openpyxl
-Pillow
-base64
+seaborn
+PyPDF2
